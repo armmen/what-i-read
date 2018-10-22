@@ -1,5 +1,9 @@
-# what-i-read
-Stuff I read on web (mostly links)
+# Stuff I read and watch on web
+
+Week 43 2018
+
+* [Secret History of Silicon Valley] (https://www.youtube.com/watch?v=ZTC_RxWN_xo)
+* [Techyaks.com : Over 80K software development tech talks ranked algorithmically to surface the industry's best presentations from the past, present and future] (https://techyaks.com/)
 
 Week 42 2018
 
